@@ -1,0 +1,16 @@
+{
+  "name": "WeFlink - Conectando influencias",
+  "short_name": "Weflink",
+  "icons": [
+    {
+      "src": "/img/icon-192.png",
+      "type": "image/png",
+      "sizes": "52x64"
+    }
+  ],
+  "background_color": "#06092B",
+  "description": "WeFlink",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#06092B"
+}
